@@ -1,6 +1,5 @@
 languageCode = "en-us"
 title = "Michał Witkowski"
-baseURL = "https://mwitkow.me/"
 theme = "hugo-goa"
 publishDir = "docs"
 
