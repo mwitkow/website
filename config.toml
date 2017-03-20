@@ -1,0 +1,24 @@
+languageCode = "en-us"
+title = "Michał Witkowski"
+baseURL = "https://mwitkow.me/"
+theme = "hugo-goa"
+publishDir = "docs"
+
+[params]
+author = "Michał Witkowski"
+intro = "Distributor of Systems"
+description = "Principle TL @improbableio. <br />Ex-@GoogleCloud SRE. <br />@golang convert. <br />Coffee lover."
+authorimage="headshot.jpg"
+
+[params.meta]
+description="Bio of Michał Witkowski, Principle Tech Lead at Improbable."
+keywords="mwitkow,google,improbable,golang"
+
+[params.social]
+github="mwitkow"
+linkedin="michalwitkowski"
+twitter="mwitkow"
+
+[params.extra]
+copyright="© 2017. Michał Witkowski. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+highlightjs=true
